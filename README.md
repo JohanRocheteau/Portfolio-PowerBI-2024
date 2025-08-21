@@ -79,8 +79,7 @@ Visualisation des hausses de température moyenne annuelle.
 ## 🔗 Ressources utilisées
 
 - Données publiques : Kaggle
-- Exemple de dataset utilisé :  
-  [Duolingo Spaced Repetition – Kaggle](https://www.kaggle.com/datasets/aravinii/duolingo-spaced-repetition-data)
+- Exemple de dataset utilisé : [Duolingo Spaced Repetition – Kaggle](https://www.kaggle.com/datasets/aravinii/duolingo-spaced-repetition-data)
 
 ---
 
