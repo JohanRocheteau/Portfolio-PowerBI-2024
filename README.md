@@ -42,7 +42,7 @@ Chaque dossier contient :
 
 ---
 
-## 📊 Aperçu des projets
+## Aperçu des projets
 
 ### 1 – Duolingo  
 Analyse d’une base de 13 millions d’interactions utilisateurs.  
