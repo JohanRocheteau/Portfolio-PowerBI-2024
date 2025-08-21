@@ -25,12 +25,14 @@ J’ai utilisé pour apprendre :
 ---
 
 ## Structure du dépôt
+
+```
 Portfolio-PowerBI-2024/
 ├── 1 - Duolingo – Apprentissage des langues
 ├── 2 - Cardiopathie – Maladie cardiovasculaire
 ├── 3 - Énergie – Accès mondial à l’électricité
 └── 4 - Température – Évolution climatique
-
+```
 
 Chaque dossier contient :
 - Le fichier `.pbix`
